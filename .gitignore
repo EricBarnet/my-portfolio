@@ -11,8 +11,16 @@
 npm-debug.log
 yarn-error.log
 
+# Build output
+/dist/
+
+# Angular development server
+/.angular/
+
 # IDEs and editors
+*.iml
 .idea/
+*.vscode/
 .project
 .classpath
 .c9/
